@@ -1,0 +1,12 @@
+# create_agent 在 langchain 主包里（v1.x）
+langchain>=1.0,<2.0
+
+# 模型适配，按需保留
+langchain-deepseek>=1.0
+# langchain-openai>=1.0
+
+# 读取 .env
+python-dotenv>=1.0
+
+# 测试
+pytest>=8.0

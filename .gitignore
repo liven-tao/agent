@@ -1,0 +1,20 @@
+# 环境与密钥
+.env
+.env.*
+
+# Python 缓存与虚拟环境
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# 编辑器
+.idea/
+.vscode/
+
+# 日志与数据
+*.log
+
+# 本地测试文件
+demo.txt
